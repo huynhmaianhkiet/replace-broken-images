@@ -12,7 +12,7 @@ Alternate image with a default image if source image is not found on posts and p
 
 == Description ==
 
-This plugin will help to replace broken images in post and pages by a default image.
+This plugin will help to replace broken images in posts and pages with a default image.
 
 == Installation ==
 

@@ -1,10 +1,10 @@
 <?php
 	/*
 	  Plugin Name: Replace Broken Images
-	  Version: 1.02
+	  Version: 1.03
 	  Description: Alternate image with a default image if source image is not found on posts and pages.
 	  Author: Hura Apps
-	  Author URI: http://www.huraapps.com
+	  Author URI: https://www.huraapps.com
 	 */
 	function HMAK_FixImageBrokenLink_settings_page()
 	{	
@@ -27,9 +27,6 @@
 							<h3 class="hndle2"><span>About This Plugin</span></h3>
 							<div class="inside">
 								<p>This plugin will help to replace broken images in post by a default image.</p>
-								<p>Version: 1.0 - 11/03/2017</p>
-								<p>Version: 1.01 - 11/03/2019</p>
-								<p>Version: 1.02 - 21/09/2019</p>
 							</div>
 						</div>
 						<div class="postbox">
@@ -38,17 +35,10 @@
 									<p></p>
 									<p>Hura Apps is a Vietnam-based Web & Mobile App development team. You can contact us via:</p>
 									<ul>
-										<li>Email: <a href="mailto:info@huraapps.com">Info@HuraApps.Com</a></li>
-										<li>Facebook: <a href="//www.facebook.com/huraapps" target="_blank">HuraApps</a></li>
+										<li>Email: <a href="mailto:info@huraapps.com">Info@huraapps.Com</a></li>
+										<li>Facebook: <a href="//www.facebook.com/huraapps" target="_blank">Huraapps</a></li>
 										<li>Website: <a href="//www.huraapps.com" target="_blank">wWw.HuraApps.Com</a></li>
-									</ul>
-									<p></p>
-									<form id="paypal-donation" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-									<input type="hidden" name="cmd" value="_s-xclick">
-									<input type="hidden" name="hosted_button_id" value="63V868PTNSW52">
-									<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-									<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-								</form>	
+									</ul>									
 								</div>
 						</div>
 					</div>
@@ -82,7 +72,7 @@
 							
 							<div class="postbox">
 								<div class="inside">
-									<p style="text-align:center;">Copyright &copy; <?php echo date("Y"); ?> by <a href="//www.huraapps.com" target="_blank">wWw.HuraApps.Com</a>. All rights reserved.<br>Developed and Designed by <a href="//me.anhkiet.info">Huynh Mai Anh Kiet</a>.</p>
+									<p style="text-align:center;">Copyright &copy; <?php echo date("Y"); ?> by <a href="//www.huraapps.com" target="_blank">Hura Apps</a>. All rights reserved.<br>Developed and Designed by <a href="//anhkiet.biz">Kiet Huynh</a>.</p>
 								</div>
 							</div>
 						</div>

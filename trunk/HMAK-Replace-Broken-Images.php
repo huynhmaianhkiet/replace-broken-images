@@ -35,9 +35,9 @@
 									<p></p>
 									<p>Hura Apps is a Vietnam-based Web & Mobile App development team. You can contact us via:</p>
 									<ul>
-										<li>Email: <a href="mailto:info@huraapps.com">Info@huraapps.com</a></li>
-										<li>Facebook: <a href="//www.facebook.com/huraapps" target="_blank">Huraapps</a></li>
-										<li>Website: <a href="//www.huraapps.com" target="_blank">wWw.HuraApps.Com</a></li>
+										<li>Email: <a href="mailto:info@huraapps.com">support@huraapps.com</a></li>
+										<li>Website: <a href="//www.huraapps.com" target="_blank">www.huraapps.com</a></li>
+										<li>LinkedIn: <a href="//www.linkedin.com/company/huraapps" target="_blank">huraapps</a></li>
 									</ul>									
 								</div>
 						</div>

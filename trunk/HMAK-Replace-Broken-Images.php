@@ -35,7 +35,7 @@
 									<p></p>
 									<p>Hura Apps is a Vietnam-based Web & Mobile App development team. You can contact us via:</p>
 									<ul>
-										<li>Email: <a href="mailto:info@huraapps.com">support@huraapps.com</a></li>
+										<li>Email: <a href="mailto:support@huraapps.com">support@huraapps.com</a></li>
 										<li>Website: <a href="//www.huraapps.com" target="_blank">www.huraapps.com</a></li>
 										<li>LinkedIn: <a href="//www.linkedin.com/company/huraapps" target="_blank">huraapps</a></li>
 									</ul>									
@@ -72,7 +72,7 @@
 							
 							<div class="postbox">
 								<div class="inside">
-									<p style="text-align:center;">Copyright &copy; <?php echo date("Y"); ?> by <a href="//www.huraapps.com" target="_blank">Hura Apps</a>. All rights reserved.<br>Developed and Designed by <a href="//anhkiet.biz">Kiet Huynh</a>.</p>
+									<p style="text-align:center;">Copyright &copy; <?php echo date("Y"); ?> by <a href="//www.huraapps.com" target="_blank">Hura Apps</a>. All rights reserved.<br>Developed and Designed by <a href="//anhkiet.biz" target="_blank">Kiet Huynh</a>.</p>
 								</div>
 							</div>
 						</div>

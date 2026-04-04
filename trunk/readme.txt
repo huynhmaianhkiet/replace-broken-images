@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: image, post, page, broken
 Requires at least: 3.0
 Tested up to: 6.9
-Stable tag: 1.03
+Stable tag: 1.04
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,9 +23,7 @@ This plugin will help to replace broken images in posts and pages with a default
 == Screenshots ==
 
 == Changelog ==
-Mar 11th 2019: Verify $_GET['page'] before compare value
-Sep 21st 2019: Updated information of developer
-Jul 05th 2024: Updated information of developer
+Apr 04th 2026: Security hardening (output escaping, esc_url, esc_attr, esc_js); performance (cache get_option calls, lazy-load media scripts via admin_enqueue_scripts); WP best practices (manage_options capability, text domain, rel=noopener, is_singular guard, this.onerror=null loop prevention)
 
 == Upgrade notice ==
 
